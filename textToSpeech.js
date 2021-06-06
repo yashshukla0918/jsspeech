@@ -23,7 +23,7 @@ $(document).ready(function(){
  $('#start').click(function(){
     $("#details").html(function(){
       var data='';
-      data=data+'Voice : '+voices[$("#voices").val()]+"<br>";
+      data=data+'Voice : '+audio_setup.voice+"<br>";
       data=data+'Volume : '+audio_setup.volume+"<br>";
       data=data+'Rate : '+audio_setup.rate+"<br>";
       data=data+'Pitch : '+audio_setup.pitch+"<br>";
