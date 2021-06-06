@@ -1,14 +1,11 @@
 $(document).ready(function(){
   var audio_setup= new SpeechSynthesisUtterance();
   var voices = speechSynthesis.getVoices();
-  audio_setup.voice=voices[19];
+  //audio_setup.voice=voices[0];
   audio_setup.volume=1;
   audio_setup.rate=1;
   audio_setup.pitch=2;
   audio_setup.lang='hi';
-   $("#voices").change(function(){
-   audio_setup.voice=voices[$("#voices").val()];
- });
   $("#file").change(function(){
     var fr=new FileReader();
     fr.onload=function(){
@@ -17,12 +14,22 @@ $(document).ready(function(){
     }
     fr.readAsText(this.files[0]);
   });
-
+ $("#voices").change(function(){
+   audio_setup.voice=voices[$("#voices").val()];
+ });
  $('textarea').change(function(){
   audio_setup.text=$('textarea').val();
  });
  $('#start').click(function(){
-   
+    $("#details").html(function(){
+      var data='';
+      data=data+'Voice : '+audio_setup.voice.name+"<br>";
+      data=data+'Volume : '+audio_setup.volume+"<br>";
+      data=data+'Rate : '+audio_setup.rate+"<br>";
+      data=data+'Pitch : '+audio_setup.pitch+"<br>";
+      data=data+'Language : '+audio_setup.lang+"<br>";
+      return data;
+    });
     speechSynthesis.speak(audio_setup);  
   });
   $('#pause').click(function (){
@@ -34,7 +41,9 @@ $(document).ready(function(){
 $('#cancel').click(function (){
     speechSynthesis.cancel();
 });
+$("#detials").html(audio_setup);
 });
+
 
 
 let voices = []; // global array of available voices
