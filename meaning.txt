@@ -1,37 +1,944 @@
-Ambiguity - अस्ऩष्टता Deface - फदनाभ कयना
-Aggravate - उत्तेजजत कयना Exhibit - प्रदर्श
-Apparently - प्रत्मऺस्ऩष्ट रूऩ Enormous - बायी
-Auspicious - र्ुब Enthusiastic - उत्साही
-Autumn -र्यद Effeminate - स्रीवत
-Appendix - ऩरयशर्ष्ट Enmity - र्रुता
-Aggregate - ऩूर्शमोग Essential - आवश्मक
-Abominable -घघनौना Endeavour - प्रमास कयना
-Accomplish - ऩूया Etiquette - शर्ष्टाचाय
-Admonish -चेतावनी देना Elaborated - सववस्ताय
-Amusement -भनोयंजन Futile - व्मर्श
-Antagonism - ववयोध Fragile - नाजुक
-Ancestor - ऩूवजश Ferocious - क्रूय
-Adjourn - स्र्गगत कयना Forfeit - अर्शदंड
-Adroit - घनऩुर् Furious - अघत क्रुद्ध
-Amiable - सफ का प्माया Fatal - घातक
-Affliction - कष्ट Generosity - उदायता
-Bias - ऩूवाशग्रह Grievous - कष्टदामक
-Benevolent - उदाय Gaudy - बड़कीरा
-Blandish - चाऩरूसी Gnaw - कुतयना
-Bewilder - घफया देना Grandeur - वैबव
-Barricade - फाधा Humorous - ववनोदऩूर्श
-Chaos - अव्मवस्र्ा Haphazard - अव्मवजस्र्त
-Catastrophe - तफाही Hymn - स्तोर
-Courteous - ववनम्र Insincere - घनष्ठाहीन
-Conceit - कष्टकल्ऩना Illuminate -उजागय कयना
-Condemn - घन ंदा कयना Impulsive - आवेगी
-Curiosity - जजऻासा Jumpy - गचड़गचड़ा
-Consequence - ऩरयर्ाभ Jocund - प्रपुल्र
-Charitable - उदाय Jester - ववदषूक
-Condensed - गाढा Juvenile - ककर्ोय
-Courtier - याजदयफायी Kindred - ऩरयजन
-Calamity - आऩदा Kinsman - स्वजन
-Clamor - कोराहर Knavish - धूती
-Capacious - ववर्ार Lenient - उदाय
-Demise - घनधन Melancholy - उदासी
-Dauntless - घनडय Nymph - अप्सया
+Active	माने	सक्रिय
+Attractive	माने	आकर्षक
+Bald	माने	गंजा
+Beautiful	माने	सुंदर
+Big	माने	बड़ा
+Boring	माने	बोरिंग
+Brave	माने	बहादुर
+Clever	माने	चालाक
+Cold	माने	ठंडा
+Coward	माने	कायर
+Dark	माने	अंधेरा
+Dull	माने	सुस्त
+Elder	माने	बड़ा
+Fair (Just)	माने	निष्पक्ष
+Fat	माने	मोटा
+Feeble	माने	कमजोर
+Fit	माने	दुरुस्त
+Funny	माने	मजाकिया
+Handsome	माने	सुंदर
+High	माने	उच्च
+Hot	माने	गरम
+Inner	माने	आंतरिक
+Intelligent	माने	बुद्धिमान
+Loud	माने	जोरदार
+Low	माने	निम्न
+Medium	माने	मध्यम
+New	माने	नया
+Old	माने	पुराना
+Outer	माने	बाहरी
+Pretty	माने	सुंदर
+Short	माने	नाटा
+Slim	माने	छरहरा
+Small	माने	छोटा
+Smart	माने	स्मार्ट
+Strong	माने	मज़बूत
+Sweet	माने	मीठा
+Tall	माने	लंबा
+Thick	माने	गाढ़ा
+Thin	माने	पतला
+Younger	माने	छोटा
+		हवाई अड्डे
+Aisle	माने	रास्ता
+Arrival	माने	आगमन
+Baggage	माने	सामान
+Baggage Claim	माने	बैगेज क्लेम
+Boarding Pass	माने	बोर्डिंग पास
+Cabin	माने	कक्ष
+Carry-On Bag	माने	कैर्री ओन
+Citizen	माने	नागरिक
+Conveyor Belt	माने	कन्वेयर बेल्ट
+Customs	माने	सीमाशुल्क
+Departure	माने	प्रस्थान
+Flight	माने	उड़ान
+Flight Attendant	माने	उड़ान सहायक
+Gate	माने	गेट
+Immigration	माने	अप्रवास
+Lounge	माने	लाउन्ज
+Passport	माने	पासपोर्ट
+Pilot	माने	विमानचालक
+Porter	माने	कुली
+Recline	माने	झुकना
+Seat	माने	सीट
+Security Guard	माने	सुरक्षा गार्ड
+Suitcase	माने	सूटकेस
+Ticket	माने	टिकट
+Tray Table	माने	ट्रे टेबल
+Trolley	माने	ट्राली
+Visa	माने	वीज़ा
+Waiting Area	माने	प्रतीक्षालय
+		घर के आसपास
+Bathroom	माने	स्नानघर
+Corridor	माने	गलियारा
+Dining-Room	माने	भोजन - कक्ष
+Door	माने	दरवाजा
+Kitchen	माने	रसोईघर
+Living Room	माने	बैठक का कमरा
+Lobby	माने	लॉबी
+Room	माने	कमरा
+Stairs	माने	सीढ़ियाँ
+Window	माने	खिड़की
+		डेटिंग
+Bar	माने	बार
+Beach	माने	बीच
+Coffee	माने	कॉफ़ी
+Date (Wrt Dating)	माने	डेट
+Dating	माने	डेटिंग
+Drink	माने	पीना
+Handsome	माने	सुंदर
+Hug	माने	गले लगाना
+I Love You	माने	मैं तुमसे प्यार करता हूँ
+Kiss	माने	चुंबन
+No, Thanks	माने	नहीं, धन्यवाद
+Pretty	माने	सुंदर
+Restaurant	माने	रेस्टोरेंट
+See You Soon!	माने	जल्द ही मिलते हैं!
+Single	माने	अकेला
+Sure!	माने	ज़रूर
+Thank You	माने	धन्यवाद
+Tonight	माने	आज रात
+		अस्पताल में
+Accident	माने	दुर्घटना
+Allergy	माने	एलर्जी
+Blood	माने	खून
+Doctor	माने	चिकित्सक
+Heart Attack	माने	दिल का दौरा
+Hospital	माने	अस्पताल
+Hurt	माने	चोट
+I Am Hurt	माने	मुझे चोट लगी है
+I Am Sick	माने	मैं बीमार हूँ
+Medicine	माने	दवा
+Nurse	माने	नर्स
+Operation	माने	आपरेशन
+Pain	माने	दर्द
+Pharmacy	माने	दवा की दुकान
+Prescription	माने	नुस्खा
+Surgery	माने	सर्जरी
+		बार में
+Alcohol	माने	शराब
+Bar	माने	बार
+Bathroom	माने	शौचालय
+Beer	माने	बियर
+Bottoms Up!	माने	बॉटम्स उप!
+Chair	माने	कुर्सी
+Cheers!	माने	चियर्स!
+Chilled	माने	ठंडा
+Cocktail	माने	कॉकटेल
+Cold	माने	ठंडा
+Credit Card	माने	क्रेडिट कार्ड
+Gin	माने	जिन
+Glass (To Hold The Drink)	माने	ग्लास
+How Much?	माने	कितने का?
+Ice	माने	बर्फ
+Identity Card	माने	पहचान कार्ड
+Juice	माने	रस
+Lemon	माने	नींबू
+Local Drink	माने	स्थानीय ड्रिंक
+Loud	माने	जोरदार
+Margarita	माने	मार्गरिटा
+Menu	माने	मेनू
+Mineral Water	माने	मिनरल वॉटर
+Mocktail	माने	मौकटेल
+Music	माने	संगीत
+Napkin	माने	नैपकिन
+Plate	माने	थाली
+Price	माने	कीमत
+Red Wine	माने	रेड वाइन
+Repeat	माने	दोहराना
+Rum	माने	रम
+Sangria	माने	सांग्रिया
+Shots	माने	शॉट
+Single Malt	माने	सिंगल माल्ट
+Snacks	माने	नाश्ता
+Soda	माने	सोडा
+Stir	माने	मिलाना
+Stool	माने	स्टूल
+Straw	माने	स्ट्रॉ
+Table	माने	टेबल
+Tequila	माने	टकीला
+Tip	माने	टिप
+Tonic	माने	टॉनिक
+Vodka	माने	वोडका
+Waiter		वेटर
+Water	माने	पानी
+Whisky	माने	व्हिस्की
+White Wine	माने	व्हाइट वाइन
+Wine	माने	वाइन
+		शरीर के अंग
+Back	माने	पीठ
+Chest	माने	छाती
+Ear	माने	कान
+Elbow	माने	कोहनी
+Eyes	माने	आंखें
+Face	माने	चेहरा
+Feet	माने	पैर
+Fingers	माने	उँगलियाँ
+Foot	माने	पांव
+Hands	माने	हाथ
+Hip	माने	नितंब
+Knee	माने	घुटना
+Legs	माने	पैर
+Mouth	माने	मुंह
+Nose	माने	नाक
+Stomach	माने	पेट
+		व्यापार
+Advertising	माने	विज्ञापन
+Appointment	माने	नियुक्ति
+Assistant	माने	सहायक
+Board Of Directors	माने	निदेशक बोर्ड
+Boss	माने	मालिक
+Brochure	माने	ब्रोशर
+Cabin		कक्ष
+Calendar	माने	कैलेंडर
+Ceo	माने	सीईओ
+Conference Call	माने	कांफ्रेंस कॉल
+Contract	माने	कॉन्ट्रैक्ट
+Credit	माने	खाते में जमा रकम
+Deal	माने	सौदा
+Delay	माने	देरी
+Department	माने	विभाग
+Desk	माने	डेस्क
+Director	माने	निर्देशक
+Discount	माने	छूट
+E-Mail	माने	ई मेल
+Exchange Rate	माने	विनिमय दर
+Finance	माने	वित्त
+Installment	माने	किस्त
+Interest Rate	माने	ब्याज दर
+Invoice	माने	चालान
+Laptop	माने	लैपटॉप
+Manager	माने	मैनेजर
+Marketing	माने	मार्केटिंग
+Meeting	माने	मीटिंग
+Mobile Phone	माने	मोबाइल फ़ोन
+Negotiation	माने	बातचीत
+Office	माने	कार्यालय
+Order	माने	आदेश
+Payment	माने	भुगतान
+Presentation	माने	प्रेजेंटेशन
+Proposal	माने	प्रस्ताव
+Reception	माने	रिसेप्शन
+Receptionist	माने	रिसेप्शनिस्ट
+Sample	माने	नमूना
+Secretary	माने	सेक्रेटरी
+Shareholder	माने	शेयरहोल्डर
+Signature	माने	हस्ताक्षर
+Supervisor	माने	पर्यवेक्षक
+Telephone Number	माने	टेलीफोन नंबर
+Terms	माने	शर्तें
+Time	माने	समय
+		रंग
+Black	माने	काला
+Blue	माने	नीला
+Brown	माने	भूरा
+Golden	माने	सुनहरा
+Gray	माने	स्लेटी
+Green	माने	हरा
+Orange	माने	नारंगी
+Pink	माने	गुलाबी
+Purple	माने	बैंगनी
+Red	माने	लाल
+Saffron	माने	केसर
+Silver	माने	चांदी
+Violet	माने	बैंगनी
+White	माने	सफ़ेद
+Yellow	माने	पीला
+		सप्ताह के दिन
+Monday	माने	सोमवार
+Tuesday	माने	मंगलवार
+Wednesday	माने	बुधवार
+Thursday	माने	बृहस्पतिवार
+Friday	माने	शुक्रवार
+Saturday	माने	शनिवार
+Sunday	माने	रविवार
+		दिशाएं
+East	माने	पूर्व
+West	माने	पश्चिम
+North	माने	उत्तर
+South	माने	दक्षिण
+Here	माने	यहां
+There	माने	वहाँ
+Right	माने	दाएँ
+Left	माने	बाएं
+Around	माने	चारों ओर
+Turn	माने	मोड़
+		आपात स्थिति
+Accident	माने	दुर्घटना
+Allergy	माने	एलर्जी
+Blood	माने	खून
+Consulate	माने	कांसुलेट
+Doctor	माने	चिकित्सक
+Embassy	माने	दूतावास
+Fire	माने	आग
+Fire Alarm	माने	फायर अलार्म
+Fire Station	माने	फायर स्टेशन
+Help!	माने	मदद करो!
+Hospital	माने	अस्पताल
+Lost	माने	खोया
+Pharmacy	माने	फार्मेसी
+Police Station	माने	पुलिस स्टेशन
+Robbery	माने	डकैती
+		प्यार जताना
+Do You Love Me?	माने	क्या तुम मुझसे प्यार करते हो?
+I Am In Love		मैं प्यार में हूं
+I Love You	माने	मैं तुमसे प्यार करता हूँ
+I Miss You	माने	मुझे आपकी याद आती है
+Will You Marry Me?	माने	तुम मुझसे शादी करोगी?
+You Are Beautiful	माने	आप सुंदर हैं
+		समय
+Time	माने	समय
+Second	माने	सेकंड
+Minute	माने	मिनट
+Hour	माने	घंटा
+Day	माने	दिन
+Date	माने	तारीख
+Month	माने	माह
+Year	माने	वर्ष
+Today	माने	आज
+Tomorrow	माने	कल
+Yesterday	माने	कल
+Day After Tomorrow	माने	परसों
+Day Before Yesterday	माने	कल के पहले दिन
+Morning	माने	सुबह
+Noon	माने	बारह बजे
+Afternoon	माने	दोपहर
+Evening	माने	शाम
+Night	माने	रात
+A.M.	माने	अए. एम.
+P.M.	माने	पी. एम.
+Early	माने	शीघ्र
+Late	माने	देर से
+Mid-Day	माने	मिड - डे
+Midnight		आधी रात
+Now	माने	अब
+Soon	माने	जल्दी
+Later	माने	बाद में
+Previous	माने	पिछला
+Next	माने	अगला
+		परिवार और रिश्ते
+Mother	माने	मां
+Father	माने	पिता
+Daughter	माने	बेटी
+Son	माने	बेटा
+Wife	माने	पत्नी
+Husband	माने	पति
+Sister (Elder)	माने	दीदी ( बड़ी )
+Sister (Younger)	माने	बहन
+Brother (Elder)	माने	भैया
+Brother (Younger)	माने	छोटा भाई
+Grandmother (Father'S Mother)	माने	दादी
+Grandfather (Father'S Father)	माने	दादा
+Grandparents (Father'S Side)	माने	दादा - दादी
+Grandparents (Mother'S Side)	माने	नाना-नानी
+Grandmother (Mother'S Mother)	माने	नानी
+Grandfather (Mother'S Father)	माने	नाना
+Granddaughter (Son'S Daughter)	माने	पोती
+Grandson (Son'S Son)	माने	पोता
+Grandchildren	माने	पोते - पोतियों
+Granddaughter (Daughter'S Daughter)	माने	दोहती
+Grandson (Daughter'S Son)	माने	दोहता
+Mother-In-Law (Husband'S Mother)	माने	सास
+Father-In-Law (Husband'S Father)	माने	ससुर
+Mother-In-Law (Wife'S Mother)	माने	सास
+Father-In-Law (Wife'S Father)	माने	ससुर
+Sister-In-Law	माने	भाभी
+Brother-In-Law	माने	जेठ
+Cousin (Male)	माने	कज़िन भाई
+Cousin (Female)	माने	कज़िन बहन
+Aunt	माने	चाची
+Uncle	माने	चाचा
+Nephew	माने	भतीजा
+Niece	माने	भतीजी
+Friend (Male)	माने	मित्र
+Friend (Female)	माने	मित्र
+Girlfriend	माने	प्रेमिका
+Boyfriend	माने	प्रेमी
+		भावनाऐं
+Anger	माने	क्रोध
+Angry	माने	क्रोधित
+Fear	माने	डर
+Happiness	माने	ख़ुशी
+Happy	माने	खुश
+Hate	माने	नफरत
+Like	माने	पसंद करना
+Love	माने	प्यार
+Pain	माने	दर्द
+Respect	माने	सम्मान
+Sad	माने	दुखी
+Scared	माने	भयभीत
+Shock	माने	झटका
+Shy	माने	शर्मीला
+Surprise	माने	आश्चर्य
+Upset	माने	परेशान
+		भोजन
+Beans	माने	फलियां
+Bread	माने	रोटी
+Butter	माने	मक्खन
+Cereal	माने	अनाज
+Cheese	माने	पनीर
+Chicken	माने	चिकन
+Chilly	माने	तीखा
+Chips	माने	चिप्स
+Coffee	माने	कॉफ़ी
+Dessert	माने	मिठाई
+Eggs	माने	अंडे
+Garlic	माने	लहसुन
+Hamburger	माने	हैमबर्गर
+Ice Cream	माने	आइसक्रीम
+Juice	माने	रस
+Lettuce	माने	सलाद पत्ता
+Meat	माने	मांस
+Milk	माने	दूध
+Mineral Water	माने	मिनरल वॉटर
+Non Vegetarian	माने	मांसाहरी
+Noodles	माने	नूडल्स
+Nuts	माने	नट्स
+Olives	माने	जैतून
+Omelette	माने	आमलेट
+Onion	माने	प्याज
+Pepper (Spice)	माने	काली मिर्च
+Pork	माने	सूअर का मांस
+Potatoes	माने	आलू
+Red Pepper	माने	लाल मिर्च
+Rice	माने	चावल
+Salad		सलाद
+Salt	माने	नमक
+Sea Food	माने	सीफ़ूड
+Shrimp	माने	झींगा
+Soup	माने	सूप
+Spice	माने	मसाला
+Tea	माने	चाय
+Vegetables	माने	सब्जियां
+Vegetarian	माने	शाकाहारी
+Water	माने	पानी
+Yoghurt	माने	दही
+		फल
+Apple	माने	सेब
+Banana	माने	केला
+Cherry	माने	चेरी
+Coconut	माने	नारियल
+Grapes	माने	अंगूर
+Guava	माने	अमरूद
+Kiwi	माने	कीवी
+Mango	माने	आम
+Melon	माने	तरबूज
+Peach	माने	आड़ू
+Pear	माने	नाशपाती
+Plum	माने	आलूबुख़ारे
+Water Melon	माने	तरबूज
+		फर्नीचर
+Armchair	माने	बंहदार कुरसी
+Bed	माने	बिस्तर
+Chair	माने	कुर्सी
+Desk		डेस्क
+Furniture	माने	फर्नीचर
+Oven	माने	ओवन
+Sofa	माने	सोफ़ा
+Stove	माने	स्टोव
+Table	माने	टेबल
+		बधाई
+Bye	माने	अलविदा
+Congratulations!	माने	बधाई हो!
+Good Evening	माने	नमस्कार
+Good Luck	माने	गुड लक
+Good Morning	माने	सुप्रभात
+Good Night	माने	शुभ रात्रि
+Hello	माने	नमस्ते
+Hi	माने	हाय
+How Are You?	माने	आप कैसे हैं?
+Nice To Meet You	माने	आपसे मिलकर अच्छा लगा
+Please	माने	कृपया
+See You Later	माने	बाद में मिलते हैं
+See You Soon!	माने	जल्दी मिलते हैं!
+See You Tomorrow	माने	कल फिर मिलेंगे
+Sorry	माने	क्षमा करें
+Take Care	माने	ध्यान रखना
+Thank You	माने	धन्यवाद
+What’S Up?	माने	क्या हो रहा है?
+		शौक
+Baking	माने	पकाना
+Basketball	माने	बास्केटबॉल
+Cooking	माने	खाना पकाना
+Cycling	माने	साइकल चलाना
+Dancing	माने	नृत्य
+Drawing	माने	चित्रकारी
+Football	माने	फुटबॉल
+Golf	माने	गोल्फ़
+Hunting	माने	शिकार
+Knitting	माने	बुनना
+Painting	माने	चित्रकारी
+Photography	माने	फ़ोटोग्राफ़ी
+Reading	माने	पढ़ना
+Sculpting	माने	मूर्तिकला
+Sewing	माने	सिलाई
+Singing	माने	गाना
+Swimming	माने	तैराकी
+Video Gaming	माने	वीडियो गेमिंग
+Weaving	माने	बुनाई
+Writing	माने	लेखन
+		होटल
+A Double Room	माने	एक डबल कमरा
+A Single Room	माने	एक जने का कमरा
+Air Conditioning	माने	वातानुकूलित
+Balcony	माने	छज्जा
+Bathroom	माने	स्नानघर
+Beach	माने	बीच
+Breakfast	माने	नाश्ता
+Cash	माने	कैश
+Clean	माने	स्वच्छ
+Corridor	माने	गलियारा
+Credit Card	माने	क्रेडिट कार्ड
+Currency	माने	मुद्रा
+Deposit	माने	जमा
+Dinner	माने	डिनर
+Double Bed	माने	डबल बेड
+Elevator	माने	लिफ़्ट
+Escalator	माने	एस्केलेटर
+Exchange Rate	माने	एक्सचेंज रेट
+Extra Bed	माने	अतिरिक्त बिस्तर
+Foreign Exchange	माने	विदेशी मुद्रा
+Front Desk	माने	स्वागत कक्ष
+Gym	माने	जिम
+House Keeping	माने	सफाई कर्मचारी
+Lobby	माने	लॉबी
+Locker	माने	लाकर
+Order	माने	आदेश
+Parking	माने	पार्किंग
+Receipt	माने	रसीद
+Reception	माने	रिसेप्शन
+Reservation	माने	आरक्षण
+Room	माने	कमरा
+Room Service	माने	कक्ष सेवा
+Safe	माने	सुरक्षित
+Single Bed	माने	सिंगल बेड
+Stairway	माने	सीढ़ी
+Swimming Pool	माने	स्विमिंग पूल
+Terrace	माने	छत
+Tip	माने	टिप
+Wake Up Call	माने	जगाने के लिए कॉल
+With A Bathroom	माने	बाथरूम के साथ
+		भाषाएँ
+Arabic	माने	अरबी
+Chinese	माने	चीनी
+English	माने	अंग्रेज़ी
+French	माने	फ्रेंच
+German		जर्मन
+Hindi	माने	हिंदी
+Italian	माने	इतालवी
+Japanese	माने	जापानी
+Korean	माने	कोरियाई
+Spanish	माने	स्पेनिश
+		पुरुषों के वस्त्र
+Belt	माने	बेल्ट
+Jacket	माने	जैकेट
+Jeans	माने	जीन्स
+Shirt	माने	शर्ट
+Shoes	माने	जूते
+Socks	माने	मोज़े
+Tie	माने	टाई
+Wallet	माने	बटुआ
+		महीने
+January	माने	जनवरी
+February	माने	फरवरी
+March	माने	मार्च
+April	माने	अप्रैल
+May	माने	मई
+June	माने	जून
+July	माने	जुलाई
+August	माने	अगस्त
+September	माने	सितंबर
+October	माने	अक्टूबर
+November	माने	नवंबर
+December	माने	दिसंबर
+		नंबर
+One		एक
+Two	माने	दो
+Three	माने	तीन
+Four	माने	चार
+Five	माने	पांच
+Six	माने	छह
+Seven	माने	सात
+Eight	माने	आठ
+Nine	माने	नौ
+Ten	माने	दस
+Eleven	माने	ग्यारह
+Twelve	माने	बारह
+Thirteen	माने	तेरह
+Fourteen	माने	चौदह
+Fifteen	माने	पंद्रह
+Sixteen	माने	सोलह
+Seventeen	माने	सत्रह
+Eighteen	माने	अठारह
+Nineteen	माने	उन्नीस
+Twenty	माने	बीस
+		पार्टी
+Anniversary	माने	सालगिरह
+Birthday	माने	जन्मदिन
+Candle	माने	मोमबत्ती
+Celebration	माने	उत्सव
+Dance	माने	नृत्य
+Drinks	माने	पेय
+Family	माने	परिवार
+Food	माने	भोजन
+Friends	माने	मित्र
+Fun	माने	मजाक
+Gift	माने	उपहार
+Grill	माने	ग्रिल
+Guitar	माने	गिटार
+Invitation	माने	निमंत्रण
+Jazz	माने	जैज़
+Loud	माने	जोरदार
+Music	माने	संगीत
+Occasion	माने	अवसर
+		पालतू जानवर
+Bird	माने	पक्षी
+Buffalo	माने	भैंस
+Camel	माने	ऊंट
+Cat	माने	बिल्ली
+Cow	माने	गाय
+Dog	माने	कुत्ता
+Duck	माने	बतख
+Fish	माने	मछली
+Goat	माने	बकरी
+Hen	माने	मुर्गी
+Horse	माने	घोड़ा
+Rabbit	माने	खरगोश
+Rat	माने	चूहा
+Sheep	माने	भेड़
+Tortoise	माने	कछुआ
+Turtle	माने	कछुआ
+		सम्बन्ध बोधक
+Above	माने	ऊपर
+After	माने	के बाद
+Ahead	माने	आगे
+Around	माने	चारों ओर
+At	माने	में
+Before	माने	से पहले
+Behind	माने	पीछे
+Below	माने	नीचे
+Beside	माने	बगल में
+Between	माने	के बीच
+From	माने	से
+Here	माने	यहां
+In	माने	में
+Inside	माने	अंदर
+On	माने	पर
+Out	माने	बाहर
+Outside	माने	बाहर
+There	माने	वहाँ
+To	माने	से
+Together	माने	एक साथ
+Under	माने	नीचे
+With	माने	साथ
+Within	माने	अंदर
+Without	माने	बिना
+		व्यवसाय
+Actor	माने	अभिनेता
+Artist	माने	कलाकार
+Business Man	माने	व्यवसायी
+Ceo	माने	सॆ.ई.ओ.
+Chef	माने	शैफ़
+Consultant	माने	सलाहकार
+Dancer	माने	नर्तक
+Dentist	माने	दंत चिकित्सक
+Doctor	माने	डॉक्टर
+Driver	माने	ड्राइवर
+Engineer		इंजीनियर
+Housewife	माने	गृहिणी
+Manager	माने	मैनेजर
+Nurse	माने	नर्स
+Professor	माने	प्राध्यापक
+Singer	माने	गायक
+Student	माने	छात्र
+Teacher	माने	शिक्षक
+		सर्वनाम
+I	माने	मैं
+Me	माने	मुझे
+My	माने	मेरे
+He	माने	वह
+She	माने	वह
+It	माने	यह
+Him	माने	उसे
+Her	माने	उसे
+His	माने	उसके
+Hers	माने	उसके
+Our	माने	हमारे
+Their	माने	उनके
+Them	माने	उन
+They	माने	वे
+Us	माने	हमें
+We	माने	हम
+You (Plural)	माने	आपलोग
+You (Singular)	माने	आप
+Your (Plural)	माने	आपलोगों के
+Your (Singular)	माने	आपके
+		प्रश्न
+How Many?	माने	कितने?
+How Much?	माने	कितने का?
+How?	माने	कैसे ?
+To Whom?	माने	किसे?
+What?	माने	क्या?
+When?	माने	कब?
+Where?	माने	कहां ?
+Which?	माने	कौन सा?
+Who?	माने	कौन?
+Whose?	माने	किसका?
+Why?	माने	क्यों?
+		रेस्टोरेंट
+Alcohol	माने	शराब
+Allergic	माने	एलर्जी
+Appetizer	माने	स्टार्टर
+Bathroom	माने	स्नानघर
+Beverage	माने	पेय
+Bill	माने	बिल
+Bottle	माने	बोतल
+Bowl	माने	कटोरा
+Bread	माने	रोटी
+Breakfast	माने	नाश्ता
+Credit Card	माने	क्रेडिट कार्ड
+Cup	माने	कप
+Delicacy	माने	खास पकवान
+Dessert	माने	मिठाई
+Dinner	माने	डिनर
+Fork	माने	कांटा
+Knife	माने	चाकू
+Lunch	माने	लंच
+Menu	माने	मेनू
+Mineral Water	माने	मिनरल वॉटर
+Napkin	माने	नैपकिन
+Pepper (Spice)	माने	काली मिर्च
+Plate	माने	थाली
+Salt	माने	नमक
+Snack	माने	नाश्ता
+Speciality	माने	स्पेशलिटी
+Spicy	माने	मसालेदार
+Spoon	माने	चम्मच
+Table	माने	टेबल
+Tip	माने	टिप
+Waiter	माने	वेटर
+Waitress	माने	वेट्रेस
+Water	माने	पानी
+Wine	माने	शराब
+		स्कूल
+Administration	माने	प्रशासन
+Assignment	माने	असाइनमेंट
+Bathroom	माने	टॉयलेट
+Book	माने	किताब
+Canteen	माने	कैंटीन
+Class	माने	वर्ग
+Classroom	माने	कक्षा
+Courses	माने	पाठ्यक्रम
+Desk	माने	डेस्क
+Exam	माने	परीक्षा
+Group	माने	समूह
+Hostel	माने	छात्रावास
+Library	माने	पुस्तकालय
+Locker	माने	लाकर
+Lunch	माने	लंच
+Notebook	माने	नोटबुक
+Notes	माने	नोट्स
+Office	माने	कार्यालय
+Period	माने	अवधि
+Presentation	माने	प्रदर्शन
+Principal	माने	प्राचार्य
+Result	माने	परिणाम
+Schedule	माने	शिड्यूल
+Sports	माने	खेल
+Student	माने	छात्र
+Syllabus	माने	पाठ्यक्रम
+Teacher	माने	शिक्षक
+Test	माने	परीक्षा
+Time	माने	समय
+		मौसम
+Spring	माने	वसंत
+Summer	माने	गर्मी
+Autumn	माने	शरद ऋतु
+Winter	माने	सर्दी
+		खरीदारी
+Bakery	माने	बेकरी
+Basket	माने	टोकरी
+Change	माने	चेंज
+Cheap	माने	सस्ता
+Closed	माने	बंद
+Clothes Shop	माने	कपड़े की दुकान
+Cost	माने	लागत
+Currency	माने	मुद्रा
+Defective	माने	खराब
+Diamond		हीरा
+Discount	माने	छूट
+Dollar	माने	डॉलर
+Entrance	माने	प्रवेश
+Euros	माने	यूरो
+Exchange Rate	माने	एक्सचेंज रेट
+Exit	माने	निकास
+Expensive	माने	महंगा
+Foreign Exchange	माने	विदेशी मुद्रा
+Gift	माने	उपहार
+Good Quality	माने	अच्छी गुणवत्ता
+How Much?	माने	कितने का?
+Jewelry	माने	आभूषण
+Open	माने	खुला
+Pay	माने	वेतन
+Poor Quality	माने	खराब क्वालिटी
+Price	माने	कीमत
+Quality	माने	गुणवत्ता
+Receipt	माने	रसीद
+Sale (Reduction)	माने	डिस्काउंट
+Sell	माने	बेचना
+Shopping Cart	माने	शौपिंग कार्ट
+		खेल
+Arena	माने	अखाड़ा
+Atheletics	माने	अत्हेलेटिक्स
+Attack	माने	आक्रमण
+Badminton	माने	बैडमिंटन
+Basketball	माने	बास्केटबॉल
+Boxing	माने	बॉक्सिंग
+Captain		कप्तान
+Celebration	माने	उत्सव
+Championship	माने	चैंपियनशिप
+Coach	माने	कोच
+Cricket	माने	क्रिकेट
+Cycling	माने	साइकल चलाना
+Extra	माने	एक्स्ट्रा
+Football	माने	फुटबॉल
+Foul	माने	फ़ाउल
+Front-Row	माने	सामने की पंक्ति
+Game	माने	खेल
+Goal	माने	लक्ष्य
+Goal Keeper	माने	गॉल कीपर
+Gymnastics	माने	जिमनास्टिक्स
+Horse-Racing	माने	घुड दौड़
+Hurrah!	माने	वाह!
+Lose	माने	हारना
+Marathon	माने	मैराथन
+Match	माने	मैच
+Players	माने	खिलाड़ी
+Race	माने	दौड़
+Referee	माने	रेफ़री
+Score	माने	स्कोर
+Seat	माने	सीट
+Stadium	माने	स्टेडियम
+Swimming	माने	तैराकी
+Table-Tennis	माने	टेबल - टेनिस
+Team	माने	टीम
+Tennis	माने	टेनिस
+Ticket	माने	टिकट
+Victory	माने	जीत
+Volley-Ball	माने	वॉली बॉल
+Win	माने	जीतना
+Wrestling	माने	रेस्लिंग
+		टैक्सी
+Downtown	माने	डाउनटाउन
+Driver	माने	ड्राइवर
+Gas Station	माने	पेट्रोल पंप
+Highway	माने	हाइवे
+Meter	माने	मीटर
+No Entry	माने	प्रवेश निषेध
+No Parking	माने	नो पार्किंग
+Receipt	माने	रसीद
+Road	माने	सड़क
+Signal	माने	सिग्नल
+Speed Limit	माने	गति सीमा
+Stop	माने	रुकिए
+Stop Here	माने	यहाँ रुकिए
+Street	माने	गली
+Taxi	माने	टैक्सी
+Taxi Stop	माने	टैक्सी स्टैंड
+Traffic Lights	माने	ट्रैफ़िक लाइट
+Wait Here	माने	यहाँ ठेहेरिये
+		परिवहन
+Air Conditioner	माने	एसी
+Airplane	माने	हवाई जहाज
+Boat	माने	नाव
+Bus	माने	बस
+Bus Stop	माने	बस स्टैंड
+Car	माने	कार
+Cruise	माने	क्रूज
+Cycle	माने	साइकिल
+Ferry	माने	नौका
+Metro	माने	मेट्रो
+One Way	माने	एक तरफा रास्ता
+Recline	माने	झुकना
+Round Trip	माने	दो तरफा सफ़र
+Seat	माने	सीट
+Ship	माने	जहाज
+Taxi	माने	टैक्सी
+Train	माने	रेलगाड़ी
+Train Station	माने	रेलवे स्टेशन
+		यात्रा
+Art	माने	कला
+Avenue	माने	मार्ग
+Bank	माने	बैंक
+Beach	माने	बीच
+Cinema	माने	सिनेमा
+City Center	माने	शहर के बीच
+Closed	माने	बंद
+Costume	माने	पोशाक
+Culture	माने	संस्कृति
+Dance	माने	नृत्य
+Downtown	माने	डाउनटाउन
+Gallery	माने	गैलरी
+Highway	माने	हाइवे
+Library	माने	पुस्तकालय
+Mall	माने	शॉपिंग सेंटर
+Market	माने	बाजार
+Monument	माने	स्मारक
+Museum	माने	संग्रहालय
+Music	माने	संगीत
+Open		खुला
+Park	माने	पार्क
+Pass	माने	पास
+Receipt	माने	रसीद
+Religion	माने	धर्म
+Rural	माने	ग्रामीण
+Stories	माने	कहानियां
+Street Market	माने	रोड साइड बाज़ार
+Student Discount	माने	छात्र डिस्काउंट
+Sun Glasses	माने	धूप के चश्मे
+Sun Screen	माने	सन स्क्रीन
+Theater	माने	थिएटर
+Ticket	माने	टिकट
+Tradition	माने	परंपरा
+Urban	माने	शहरी
+		सब्जियां
+Aubergine	माने	बैंगन
+Bell Peppers	माने	शिमला मिर्च
+Brinjal	माने	बैंगन
+Carrot	माने	गाजर
+Chili	माने	मिर्च
+Corn	माने	मकई
+Eggplant	माने	बैंगन
+Mushroom	माने	कुकुरमुत्ता
+Potato	माने	आलू
+Tomato	माने	टमाटर
+		मौसम
+Cloudy	माने	बादल छाना
+Gloomy	माने	उदास
+Humid		नम
+It'S Cold	माने	ठंड है
+It'S Hot	माने	गर्मी है
+It'S Windy	माने	तूफानी है
+Lightening	माने	बिजली कड़कना
+Pleasant	माने	सुखद
+Rainy	माने	बरसाती
+Thunder	माने	गरज
+Windy	माने	तूफानी
+		शुभकामनाएँ
+Happy Anniversary!	माने	शादी की सालगिरह मुबारक हो
+Happy Birthday!	माने	जन्मदिन मुबारक
+Happy New Year!	माने	नया साल मुबारक हो
+Merry Christmas!	माने	मेरी क्रिसमस
+		महिलाओं के वस्त्र
+Accessory	माने	एक्सेसरी
+Bikini	माने	बिकिनी
+Blouse	माने	ब्लाउज
+Earrings	माने	कान की बाली
+Jacket	माने	जैकेट
+Jeans	माने	जीन्स
+Jewelry	माने	आभूषण
+Necklace	माने	हार
+Purse	माने	पर्स
+Shoes	माने	जूते
+Skirt	माने	स्कर्ट
+Slippers	माने	चप्पलें
+		
