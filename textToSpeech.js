@@ -1,11 +1,14 @@
 $(document).ready(function(){
   var audio_setup= new SpeechSynthesisUtterance();
   var voices = speechSynthesis.getVoices();
-  //audio_setup.voice=voices[0];
+  audio_setup.voice=voices[19];
   audio_setup.volume=1;
   audio_setup.rate=1;
   audio_setup.pitch=2;
   audio_setup.lang='hi';
+   $("#voices").change(function(){
+   audio_setup.voice=voices[$("#voices").val()];
+ });
   $("#file").change(function(){
     var fr=new FileReader();
     fr.onload=function(){
@@ -14,9 +17,7 @@ $(document).ready(function(){
     }
     fr.readAsText(this.files[0]);
   });
- $("#voices").change(function(){
-   audio_setup.voice=voices[$("#voices").val()];
- });
+
  $('textarea').change(function(){
   audio_setup.text=$('textarea').val();
  });
