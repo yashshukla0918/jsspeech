@@ -23,8 +23,11 @@ $(document).ready(function(){
  $('#start').click(function(){
     $("#details").html(function(){
       var data='';
+      try{
       data=data+'Voice : '+audio_setup.voice+"<br>";
-      data=data+'Volume : '+audio_setup.volume+"<br>";
+      }catch{
+        data=data+"Voice : Loading...<br>";
+      }data=data+'Volume : '+audio_setup.volume+"<br>";
       data=data+'Rate : '+audio_setup.rate+"<br>";
       data=data+'Pitch : '+audio_setup.pitch+"<br>";
       data=data+'Language : '+audio_setup.lang+"<br>";
