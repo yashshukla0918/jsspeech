@@ -23,20 +23,20 @@ $(document).ready(function(){
   audio_setup.text=$('textarea').val();
  });
  $('#start').click(function(){
-    $("#details").html(function(){
-      var data='';
-      try{
-      data=data+'Voice : '+audio_setup.voice.voiceURI+"<br>";
-      }
-      catch{
-        data=data+"Voice : Loadng...<br>";
-      }
-      data=data+'Volume : '+audio_setup.volume+"<br>";
-      data=data+'Rate : '+audio_setup.rate+"<br>";
-      data=data+'Pitch : '+audio_setup.pitch+"<br>";
-      data=data+'Language : '+audio_setup.lang+"<br>";
-      return data;
-    });
+//     $("#details").html(function(){
+//       var data='';
+//       try{
+//       data=data+'Voice : '+audio_setup.voice.voiceURI+"<br>";
+//       }
+//       catch{
+//         data=data+"Voice : Loadng...<br>";
+//       }
+//       data=data+'Volume : '+audio_setup.volume+"<br>";
+//       data=data+'Rate : '+audio_setup.rate+"<br>";
+//       data=data+'Pitch : '+audio_setup.pitch+"<br>";
+//       data=data+'Language : '+audio_setup.lang+"<br>";
+//       return data;
+//     });
     speechSynthesis.speak(audio_setup);  
   });
   $('#pause').click(function (){
